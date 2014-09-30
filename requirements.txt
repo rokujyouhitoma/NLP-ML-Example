@@ -1,0 +1,6 @@
+distribute==0.6.28
+gensim==0.10.2
+numpy==1.9.0
+scikit-learn==0.15.2
+scipy==0.14.0
+six==1.8.0
